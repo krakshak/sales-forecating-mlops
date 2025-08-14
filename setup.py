@@ -6,10 +6,10 @@ with open("README.md", "r", encoding="utf-8") as f:
 
 __version__ = "0.0.0"
 
-REPO_NAME = "walmart-sales-forecast-mlops"
-AUTHOR_USER_NAME = "HarshVBhatt"
+REPO_NAME = "walmart-sales-forecasting-mlops"
+AUTHOR_USER_NAME = "krakshak"
 SRC_REPO = "projectFiles"
-AUTHOR_EMAIL = "harshvbhatt@gmail.com"
+AUTHOR_EMAIL = "krakshak@gmail.com"
 
 
 setuptools.setup(
@@ -17,7 +17,7 @@ setuptools.setup(
     version=__version__,
     author=AUTHOR_USER_NAME,
     author_email=AUTHOR_EMAIL,
-    description="Python package for the ML app",
+    description="Python package for the Sales Forecast ML app",
     long_description=long_description,
     long_description_content="text/markdown",
     url=f"https://github.com/{AUTHOR_USER_NAME}/{REPO_NAME}",

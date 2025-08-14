@@ -8,7 +8,7 @@
 Clone the repository
 
 ```bash
-https://github.com/HarshVBhatt/walmart-sales-forecast-mlops.git
+https://github.com/krakshak/walmart-sales-forecast-mlops.git
 ```
 ## STEP 01- Create a conda environment after opening the repository
 

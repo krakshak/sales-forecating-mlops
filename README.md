@@ -1,4 +1,4 @@
-# Walmart Sales Forecasting end-to-end MLOps
+# Sales Forecasting end-to-end MLOps
 
 # Architecture
 ![architecture](https://github.com/user-attachments/assets/8d0c8002-d300-448a-8084-7953f4c8ccde)
